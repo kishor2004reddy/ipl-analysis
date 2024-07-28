@@ -20,9 +20,9 @@ Two datasets will be provided matches, deliveries. The challege is to gain insig
 
 Participants are encouraged to use technologies, including but not limited to,
 
-1. Programming Language : Python
-2. Data Manipulation : Numpy, Pandas
-3. Data Visualisation : Matplotlib, Seaborn, Plotly
+1. Programming Language : Python.
+2. Data Manipulation : Numpy, Pandas.
+3. Data Visualisation : Matplotlib, Seaborn, Plotly.
 
 # Evaluation Criteria :
 
