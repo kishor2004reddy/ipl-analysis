@@ -1,11 +1,11 @@
-# ipl-analysis
-# Problem Statement 
+# IPL Analysis
+## Problem Statement 
 Investigating the performance trends of IPL Teams and Players over the seasons from 2008 to 2024.
 
-# Overview : 
+## Overview : 
 Two datasets will be provided matches, deliveries. The challege is to gain insights on key aspects like Team Performance, Player Perfromance and Impact of venue of the match on the Teams. By investigating these aspects, researchers gains hands on understanding on the performance trends of players and teams. This analysis can help owners to take decisions while cricket auction. It also helps the captain to set the batting and bowling order.
 
-# Key Insights :
+## Key Insights :
 
 1. Display Top 20 Batsmans who scored most runs till now.
 2. Calculate the Strike Rate of batsmans who played more than 100 matches and order them in descending order of Strike Rate and plot it on a suitable Graph.
